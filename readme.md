@@ -1,7 +1,7 @@
 ## 介绍
-论文**Hashtag recommendation with topical attentionbased LSTM**的代码实现，做baseline用故实现出来。
+论文**Hashtag recommendation with topical attentionbased LSTM**的代码实现，做baseline用，所以实现出来。
 
-没有官方源码（至少没有一个完整能用的），所以可能和论文的思想/结果有所输出
+没有官方源码（至少没有一个完整能用的），所以可能和论文的思想/结果有所出入
 
 
 ## 需求
